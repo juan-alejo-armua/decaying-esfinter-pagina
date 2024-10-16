@@ -1,0 +1,443 @@
+[{
+        "id": 1,
+        "name": "combat knife scavenger",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "todo el mapa",
+        "descripcion": "London gaming",
+        "img": "https://i.postimg.cc/7Yb5Wwqj/Combat-Knife-Scav.webp",
+        "lifeP": "80 HP"
+    },
+    {
+        "id": 2,
+        "name": "lead pipe scavenger",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "todo el mapa",
+        "descripcion": "Say goodbye to your kneecaps, chucklehead!",
+        "img": "https://i.postimg.cc/SN14vD8D/Pipe-scav.webp",
+        "lifeP": "80 HP"
+    },
+    {
+        "id": 3,
+        "name": "ice axe scavenger",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "todo el mapa",
+        "descripcion": "He's a Trained killer",
+        "img": "https://i.postimg.cc/13LQ9XvF/Ice-Axe-Scav.webp",
+        "lifeP": "80 HP"
+    },
+    {
+        "id": 4,
+        "name": "crowbar scavenger",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "todo el mapa",
+        "descripcion": "Gordon freeman",
+        "img": "https://i.postimg.cc/2y5JdNHm/Crowbar-Scav.webp",
+        "lifeP": "100 HP"
+    },
+    {
+        "id": 5,
+        "name": "boar spear scavenger",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "todo el mapa",
+        "descripcion": "Light attacker? Never heard of her",
+        "img": "https://i.postimg.cc/q7XZ9vS4/Spear-Scav.webp",
+        "lifeP": "80 HP"
+    },
+    {
+        "id": 6,
+        "name": "sledgehammer scavenger",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "todo el mapa",
+        "descripcion": "The visible Hidden",
+        "img": "https://i.postimg.cc/qqYm8hhX/Biker-hotline-miami.webp",
+        "lifeP": "150 HP"
+    },
+    {
+        "id": 7,
+        "name": "specialist knife scavenger",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "todo el mapa",
+        "descripcion": "Hippity hoppity your arteries are now my property",
+        "img": "https://i.postimg.cc/pXwGrjtP/Sknifescavpose.webp",
+        "lifeP": "75 HP"
+    },
+    {
+        "id": 8,
+        "name": "cleaver scavenger",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "todo el mapa",
+        "descripcion": "Admit it, he's better than you",
+        "img": "https://i.postimg.cc/cJZFMNHj/Cleavscavpose.webp",
+        "lifeP": "85 HP"
+    },
+    {
+        "id": 9,
+        "name": "baseball bat scavenger",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "todo el mapa",
+        "descripcion": "Think fast chucklenuts!",
+        "img": "https://i.postimg.cc/tJHcfVCq/Baseball-Bat-Scav-Render.webp",
+        "lifeP": "85 HP"
+    },
+    {
+        "id": 10,
+        "name": "brass knuckles scavenger",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "todo el mapa",
+        "descripcion": "Fisting is 300 odens",
+        "img": "https://i.postimg.cc/rw6DHV5h/Brass.webp",
+        "lifeP": "100 HP"
+    },
+    {
+        "id": 11,
+        "name": "police baton scavenger",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "todo el mapa",
+        "descripcion": "Loves police brutality",
+        "img": "https://i.postimg.cc/TwyySpN4/Police.webp",
+        "lifeP": "90 HP"
+    },
+    {
+        "id": 12,
+        "name": "scissors scavenger",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "todo el mapa",
+        "descripcion": "Dream Stan",
+        "img": "https://i.postimg.cc/nzQz2NC8/Dream-Fan.webp",
+        "lifeP": "80 HP"
+    },
+    {
+        "id": 13,
+        "name": "rake scavenger",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "todo el mapa",
+        "descripcion": "Wannabe Bucket Man",
+        "img": "https://i.postimg.cc/nc1L34cL/Rake-from-hit-game-rake.webp",
+        "lifeP": "90 HP"
+    },
+    {
+        "id": 14,
+        "name": "pitchfork scavenger",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "todo el mapa",
+        "descripcion": "Just press 'R'!",
+        "img": "https://i.postimg.cc/mDMLCM5B/Big-fork.webp",
+        "lifeP": "140 HP"
+    },
+    {
+        "id": 15,
+        "name": "shovel scavenger",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "todo el mapa",
+        "descripcion": "Read a book on how to do light attacks",
+        "img": "https://i.postimg.cc/B6wTLrkd/Snow-Shovel.webp",
+        "lifeP": "85 HP"
+    },
+    {
+        "id": 16,
+        "name": "wakizashi scavenger",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "todo el mapa",
+        "descripcion": "Former Vagabond user gone insane",
+        "img": "https://i.postimg.cc/Y9kqHR3Z/Wakizashi-Scav.webp",
+        "lifeP": "85 HP"
+    },
+    {
+        "id": 17,
+        "name": "construction hammer scavenger",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "todo el mapa",
+        "descripcion": "Bob the killer",
+        "img": "https://i.postimg.cc/VvkfSN2F/Hammer-woman.webp",
+        "lifeP": "90 HP"
+    },
+    {
+        "id": 18,
+        "name": "tomahawk scavenger",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "todo el mapa",
+        "descripcion": "He can't throw, it's glued to his hand",
+        "img": "https://i.postimg.cc/9FSmMCbG/Axe-scav-in-chicago-be-like.webp",
+        "lifeP": "85 HP"
+    },
+    {
+        "id": 19,
+        "name": "bucket man",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "scav war",
+        "descripcion": "No life dark souls player",
+        "img": "https://i.postimg.cc/63QgnG5T/Bucket-Man.webp",
+        "lifeP": "15000 HP"
+    },
+    {
+        "id": 20,
+        "name": ".22 LR Broomhandle Pistol scavenger",
+        "combat": "distancia",
+        "spawn": "todo el mapa",
+        "descripcion": "Debuffs o' Plenty",
+        "img": "https://i.postimg.cc/qMQmXvS3/Broomhandlescavpose.webp",
+        "lifeP": "80 HP"
+    },
+    {
+        "id": 21,
+        "name": "M1911A1 Scavenger",
+        "combat": "distancia",
+        "spawn": "todo el mapa",
+        "descripcion": "Somehow less accurate",
+        "img": "https://i.postimg.cc/vZB0PdwS/M1911-Scav.webp",
+        "lifeP": "80 HP"
+    },
+    {
+        "id": 22,
+        "name": "Ruger LCP Scavenger",
+        "combat": "distancia",
+        "spawn": "todo el mapa",
+        "descripcion": "Kind of lame, really",
+        "img": "https://i.postimg.cc/6qt0nkhc/Ruger-Scav.webp",
+        "lifeP": "75 HP"
+    },
+    {
+        "id": 23,
+        "name": "Glock 17 Scavenger",
+        "combat": "distancia",
+        "spawn": "todo el mapa",
+        "descripcion": "America's icon",
+        "img": "https://i.postimg.cc/QCmqbf43/YOULOSETOGLOCK21.webp",
+        "lifeP": "85 HP"
+    },
+    {
+        "id": 24,
+        "name": "Peacemaker Scavenger",
+        "combat": "distancia",
+        "spawn": "todo el mapa",
+        "descripcion": "A fuckin' drunk cowboy",
+        "img": "https://i.postimg.cc/vHPzxSx7/Peacemaker-Scav.webp",
+        "lifeP": "75 HP"
+    },
+    {
+        "id": 25,
+        "name": "Dual Ruger LCP Scavenger",
+        "combat": "distancia",
+        "spawn": "todo el mapa",
+        "descripcion": "His dog was killed",
+        "img": "https://i.postimg.cc/JzGQNcjf/Dualiescav2.webp",
+        "lifeP": "85 HP"
+    },
+    {
+        "id": 26,
+        "name": "Winchester Scavenger",
+        "combat": "distancia",
+        "spawn": "todo el mapa",
+        "descripcion": "Winter Desperado",
+        "img": "https://i.postimg.cc/QCd7Xhb2/Winchester-Scav.webp",
+        "lifeP": "90 HP"
+    },
+    {
+        "id": 27,
+        "name": "Fanfire Winchester Scavenger",
+        "combat": "distancia",
+        "spawn": "todo el mapa",
+        "descripcion": "Yeehaw Special",
+        "img": "https://i.postimg.cc/8z66kyRz/Fanfire.webp",
+        "lifeP": "95 HP"
+    },
+    {
+        "id": 28,
+        "name": "The reason former vagabond retired",
+        "combat": "distancia",
+        "spawn": "todo el mapa",
+        "descripcion": "Yeehaw Special",
+        "img": "https://i.postimg.cc/DzQ4L8YV/Weakling.webp",
+        "lifeP": "80 HP"
+    },
+    {
+        "id": 29,
+        "name": "SKS Scavenger",
+        "combat": "distancia",
+        "spawn": "todo el mapa",
+        "descripcion": "Least intimidating enemy ever. Scares the shit out of you when you least expect it",
+        "img": "https://i.postimg.cc/XqPr4FX5/SKS-scav.webp",
+        "lifeP": "90 HP"
+    },
+    {
+        "id": 30,
+        "name": "Dragunov Scavenger",
+        "combat": "distancia",
+        "spawn": "todo el mapa",
+        "descripcion": "Russian Sniper",
+        "img": "https://i.postimg.cc/hPJJMC31/Dragunov-Scav.webp",
+        "lifeP": "90 HP"
+    },
+    {
+        "id": 31,
+        "name": "AI-AWSM Scavenger",
+        "combat": "distancia",
+        "spawn": "todo el mapa",
+        "descripcion": "The Dog-tag Destroyer",
+        "img": "https://i.postimg.cc/nhBXfXxs/AWPScav.webp",
+        "lifeP": "80 HP"
+    },
+    {
+        "id": 32,
+        "name": "Double Barrel Shotgun Scavenger",
+        "combat": "distancia",
+        "spawn": "todo el mapa",
+        "descripcion": "Surprise",
+        "img": "https://i.postimg.cc/N0t5sQGd/DB-Shotgun-Scav.webp",
+        "lifeP": "85 HP"
+    },
+    {
+        "id": 33,
+        "name": "Model 870 Scavenger",
+        "combat": "distancia",
+        "spawn": "todo el mapa",
+        "descripcion": "12 Gauge Soyjak",
+        "img": "https://i.postimg.cc/CM25ZGLB/Shotgun-Scav.webp",
+        "lifeP": "90 HP"
+    },
+    {
+        "id": 34,
+        "name": "SPAS-12 Scavenger",
+        "combat": "distancia",
+        "spawn": "todo el mapa",
+        "descripcion": "Intentionally changed to pump-action",
+        "img": "https://i.postimg.cc/yNnY79bN/SpasScav.webp",
+        "lifeP": "85 HP"
+    },
+    {
+        "id": 35,
+        "name": "CBJ-MS Scavenger",
+        "combat": "distancia",
+        "spawn": "todo el mapa",
+        "descripcion": "AK-74 Scavenger's Little Brother... and he's still pretty scary",
+        "img": "https://i.postimg.cc/tJnXdcC1/CBS-Scav.webp",
+        "lifeP": "75 HP"
+    },
+    {
+        "id": 36,
+        "name": "AK-74 Scavenger",
+        "combat": "distancia",
+        "spawn": "todo el mapa",
+        "descripcion": "LOVES to strike your arteries. And your bones.' Can't forget about your hands too",
+        "img": "https://i.postimg.cc/TYmbf7qY/Help-pls.webp",
+        "lifeP": "90 HP"
+    },
+    {
+        "id": 37,
+        "name": "Guard",
+        "combat": "distancia",
+        "spawn": "Oleada 10",
+        "descripcion": "Imagine an AK scav, put everything you hate about every other scav, triple his HP and give him grenades",
+        "img": "https://i.postimg.cc/tgRndX0Y/Guard-Render.webp",
+        "lifeP": "250 HP"
+    },
+    {
+        "id": 38,
+        "name": "Yosef",
+        "combat": "distancia",
+        "spawn": "Oleada 10",
+        "descripcion": "Bro only wanted functioning respirators and now went to war with the whole world",
+        "img": "https://i.postimg.cc/W3F3Sz5b/Scav-Boss.webp",
+        "lifeP": "1100 HP"
+    },
+    {
+        "id": 39,
+        "name": "Hi-Capa Raider",
+        "combat": "distancia",
+        "spawn": "Castillo",
+        "descripcion": "The least threatening woman. fuck you",
+        "img": "https://i.postimg.cc/8kvc6FFZ/Car-Door-Woman.webp",
+        "lifeP": "140 HP"
+    },
+    {
+        "id": 40,
+        "name": "Fire Axe Raider",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "Castillo",
+        "descripcion": "A inferior sledgehammer scav, although have a faster swing rate",
+        "img": "https://i.postimg.cc/pLSMCZ4z/Fire-Axe-Woman-Render.webp",
+        "lifeP": "150 HP"
+    },
+    {
+        "id": 41,
+        "name": "Military Axe Raider",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "Castillo",
+        "descripcion": "The only melee enemy who knows how to put up a fight",
+        "img": "https://i.postimg.cc/ncc8tgtq/Military-Axe-Raider.webp",
+        "lifeP": "175 HP"
+    },
+    {
+        "id": 42,
+        "name": "MCX Virtus Raider",
+        "combat": "distancia",
+        "spawn": "Castillo",
+        "descripcion": "CTRL + A + Backspace",
+        "img": "https://i.postimg.cc/FsPMFp98/MCXRaider-Render.webp",
+        "lifeP": "150 HP"
+    },
+    {
+        "id": 43,
+        "name": "CheyTac M200 Raider",
+        "combat": "distancia",
+        "spawn": "Castillo",
+        "descripcion": "Oh! oh my god! OOOHHH!! OH MY ####### GOD!!! OAAHHH OOHH!!!! mom get the camera!!!",
+        "img": "https://i.postimg.cc/NjSZm02x/Chey-Tac-Raider-Render.webp",
+        "lifeP": "120 HP"
+    },
+    {
+        "id": 45,
+        "name": "FN M249 Raider",
+        "combat": "distancia",
+        "spawn": "Castillo",
+        "descripcion": "Sledge Queen's slow ass simps",
+        "img": "https://i.postimg.cc/90mkCRsc/M249-Raider-Render.webp",
+        "lifeP": "300 HP"
+    },
+    {
+        "id": 46,
+        "name": "Sledge Queen",
+        "combat": "mixto",
+        "spawn": "Castillo",
+        "descripcion": "Why do I hear Made of Steel?",
+        "img": "https://i.postimg.cc/Hnk6fG7x/Sledge-Queen.webp",
+        "lifeP": "1200 HP"
+    },
+    {
+        "id": 47,
+        "name": "Hidden",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "todo el mapa",
+        "descripcion": "Spy TF2, except he can stab you while cloaked, a total Drifter wannabe",
+        "img": "https://i.postimg.cc/CMcPbKWf/Hidden-Render.webp",
+        "lifeP": "150 HP"
+    },
+    {
+        "id": 48,
+        "name": "Sickler",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "todo el mapa",
+        "descripcion": "Hey look, it's a sadboy. Let's make it cry even harder",
+        "img": "https://i.postimg.cc/XvKxqNfq/Sickler-Render.webp",
+        "lifeP": "700 HP"
+    },
+    {
+        "id": 49,
+        "name": "Skinner",
+        "combat": "cuerpo a cuerpo",
+        "spawn": "todo el mapa",
+        "descripcion": "Executioner's absolute nightmare. Loves stealing scavenger IDs",
+        "img": "https://i.postimg.cc/4yy1WzrH/Skinner-Render.webp",
+        "lifeP": "250 HP"
+    },
+    {
+        "id": 50,
+        "name": "Hanger",
+        "combat": "cuerpo a cuerpo y psicologico",
+        "spawn": "montaña",
+        "descripcion": "LowTierGod",
+        "img": "https://i.postimg.cc/QtxgMQNY/Hanger-Render.webp",
+        "lifeP": "150 HP"
+    }
+
+]

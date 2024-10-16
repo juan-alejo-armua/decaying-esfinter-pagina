@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Informacion del enemigo</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="detalles.css">
+</head>
+
+<body>
+    <div class="container mt-5">
+        <h1 id="enemigo" class="text-center"></h1>
+        <p id="descripcion"></p>
+        <div id="detalle-auto" class="mt-4"></div>
+        <div class="container">
+            <h1>Detalles del Enemigo</h1>
+            <div class="details-content">
+                <p>Descripción detallada del enemigo.</p>
+                <table class="table">
+                    <tr>
+                        <th>Nombre</th>
+                        <td id="name"></td>
+                    </tr>
+                    <tr>
+                        <th>Tipo de combate</th>
+                        <td id="combat"></td>
+                    </tr>
+                    <tr>
+                        <th>Aparece en</th>
+                        <td id="spawn"></td>
+                    </tr>
+                    <tr>
+                        <th>Puntos de Vida</th>
+                        <td id="lifeP"></td>
+                    </tr>
+                </table>
+            </div>
+            <a href="./index.html" class="back-button">Volver a la lista</a>
+        </div>
+    </div>
+
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const EId = parseInt(params.get('id'), 10);
+
+        fetch('data.json')
+            .then(response => response.json())
+            .then(data => {
+                const E = data.find(e => e.id === EId);
+
+                if (E) {
+                    document.getElementById('enemigo').innerText = `${E.name}`;
+
+                    document.getElementById('name').innerText = E.name;
+                    document.getElementById('combat').innerText = E.combat;
+                    document.getElementById('spawn').innerText = E.spawn;
+                    document.getElementById('lifeP').innerText = E.lifeP;
+                    document.getElementById('descripcion').innerText = E.descripcion;
+
+                    document.getElementById('enemigo').innerHTML = `
+                    <img src="${E.img}" alt="${E.name} ${E.combat}" style="width: 100%; height: auto;" />
+                `;
+                } else {
+                    document.getElementById('enemigo').innerText = 'Enemigo no encontrado.';
+                }
+            })
+            .catch(error => console.error('Error al cargar el archivo JSON:', error));
+    </script>
+</body>
+
+</html>
